@@ -1,0 +1,27 @@
+{
+  "accuracy": 0.7,
+  "f1_score": 0.7201,
+  "roc_auc": 0.7705,
+  "package_mae": 1.144,
+  "package_r2": 0.7037,
+  "feature_importances": {
+    "CGPA": 0.10945013468856714,
+    "Internships": 0.03469806332649706,
+    "Projects": 0.06597146035665646,
+    "Certifications": 0.020832957921171968,
+    "Aptitude_Score": 0.09065762108590569,
+    "Technical_Skill": 0.12746492226174502,
+    "Coding_Skill": 0.18225441709605789,
+    "Communication_Skill": 0.0677307992899555,
+    "Soft_Skill": 0.050285211326330764,
+    "Backlogs": 0.05405440190573042,
+    "Extracurricular_Score": 0.04965560692262311,
+    "Leadership_Score": 0.05423795644166019,
+    "LinkedIn_GitHub_Activity": 0.055765041901686796,
+    "Gender": 0.006904078309941846,
+    "Branch": 0.022507689788279016,
+    "Placement_Training": 0.007529637377191139
+  },
+  "n_train": 2000,
+  "n_test": 500
+}
